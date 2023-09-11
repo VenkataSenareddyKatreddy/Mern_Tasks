@@ -1,0 +1,15 @@
+table {
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color:rgb(40, 198, 174);
+    width: 100%;
+}
+tbody,thead{
+    background-color: rgb(40, 198, 174);
+    border-radius: 10%;
+}
+th,td{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(40,198,174);
+}

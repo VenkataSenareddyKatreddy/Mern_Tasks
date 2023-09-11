@@ -1,0 +1,28 @@
+div{
+    border: 1px solid black ;
+    padding: 2% 2% 3% 2%;
+    background-color: white;
+} 
+
+.v1{
+    height: fit-content;
+    background-color: orange;
+    border: 0px;
+    
+    
+}
+.v2{
+    height: 200px;
+    background-color: lightblue;
+    border: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+#s1{
+    color: white;
+}
+body{
+    width: fit-content;
+}

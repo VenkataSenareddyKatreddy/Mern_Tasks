@@ -1,0 +1,39 @@
+body{
+    background-color: yellow;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.d{
+    color: purple;
+}
+ul{
+    list-style-type: none;
+    position: absolute;
+
+}
+li a{
+    text-decoration: none;
+    display: block;
+    color: blue;
+    
+}
+
+li{
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+    width: 95px;
+    border-right: 20px solid black;
+    
+}
+.d{
+    margin-left: 20%;
+    margin-right: 40%;
+    
+}
+#h{
+    border: 1px dotted purple;
+}
+#i{
+    color: purple;
+}

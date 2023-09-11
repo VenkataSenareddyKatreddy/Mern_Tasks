@@ -1,0 +1,21 @@
+#t{
+    background-color:rgb(196, 14, 78);
+    width: 35%;
+    padding: 4% 10% 4% 10%;  
+}
+#t1{
+    background-color:rgb(115, 24, 56);
+    padding: 4% 10% 4% 12%;
+}
+td,th{
+    color: white;
+    
+}
+button{
+    width: 300px;
+    height: 40px;
+    border: 1px solid white;
+}
+table{
+    text-align: left;
+}

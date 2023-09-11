@@ -1,0 +1,17 @@
+#r1{
+    background-color: rgb(36, 205, 148);
+    
+}
+table{
+    width: 100%;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 0.5px solid lightgray;
+
+}
+.h1{
+    color: white;
+    text-align: left;
+}
+.g{
+    background-color: lightgray;
+}
